@@ -3,5 +3,5 @@ CIS 4120 Assignment 1 creating a static weather app homescreen with attention to
 
 Resources:
 Learning basic HTML + CSS: https://www.youtube.com/watch?v=a_iQb1lnAEQ
-ChatGPT
+and ChatGPT
 
